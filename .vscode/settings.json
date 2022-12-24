@@ -1,0 +1,12 @@
+{
+  "background.fullscreen": {
+    "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+    "opacity": 0.91,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "background.customImages": [
+    "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg"
+  ]
+}
